@@ -1,0 +1,91 @@
+County_ID,County_Name,School_ID,School_Name,Percent_FRL,Address,City,State,ZipCode
+605,Baldwin County, 0189 , Baldwin High School,92.86,155 Ga Highway 49 W, Milledgeville,GA ,31061
+605,Baldwin County, 0300 , Lakeview Academy,92.78,220 N Abc Dr, Milledgeville,GA ,31061
+605,Baldwin County, 0302 , Lakeview Primary,92.92,372 Blandy Rd NW, Milledgeville,GA ,31061
+605,Baldwin County, 0303 , Midway Hills Academy,92.90,101 Carl Vinson Rd SE, Milledgeville,GA ,31061
+605,Baldwin County, 0301 , Midway Hills Primary,92.86,375 Blandy Rd NW, Milledgeville,GA ,31061
+605,Baldwin County, 0100 , Oak Hill MS,92.93,356 Blandy Rd NW, Milledgeville,GA ,31061
+631,Clayton County, 0177 , Adamson Middle School,92.96,3187 Rex Rd,Rex,GA,30273
+631,Clayton County, 1050 , Anderson Elementary School,93.09,4199 Old Rock Cut Rd,Conley,GA,30288
+631,Clayton County, 1550 , Arnold Elementary School,92.98,216 Stockbridge Rd,Jonesboro,GA,30236
+631,Clayton County, 3050 , Babb Middle School,92.97,5500 Reynolds Rd,Forest Park,GA,30297
+631,Clayton County, 0175 , Brown Elementary School,92.99,9771 Poston Rd,Jonesboro,GA,30238
+631,Clayton County, 0103 , Callaway Elementary School,92.93,120 Oriole Dr,Jonesboro,GA,30238
+631,Clayton County, 0115 , Charles R. Drew High School,92.99,6237 Garden Walk Blvd,Riverdale,GA,30274
+631,Clayton County, 4050 , Church Street Elementary School,92.98,7013 Church St,Riverdale,GA,30274
+631,Clayton County, 1052 , East Clayton Elementary School,92.94,3674 Steele Rd.,Ellenwood,GA,30294
+631,Clayton County, 0116 , Eddie White Middle School,93.04,11808 Panhandle Rd,Hampton,GA,30228
+631,Clayton County, 5052 , Edmonds Elementary School,93.02,4495 Simpson Rd,Forest Park,GA,30297
+631,Clayton County, 0114 , Elite Scholars Academy School,92.99,7923 Fielder Rd,Jonesboro,GA,30236
+631,Clayton County, 1054 , Forest Park High School,92.99,5452 Phillips Dr,Forest Park,GA,30297
+631,Clayton County, 2054 , Forest Park Middle School,93.05,930 Finley Dr,Forest Park,GA,30297
+631,Clayton County, 2554 , Fountain Elementary School,92.93,5215 West St,Forest Park,GA,30297
+631,Clayton County, 0203 , Harper Elementary School,93.04,93 Valley Hill Rd SW,Riverdale,GA,30274
+631,Clayton County, 0199 , Hawthorne Elementary School,93.04,10750 English Rd,Hampton,GA,30228
+631,Clayton County, 3054 , Haynie Elementary School,92.99,1169 Morrow Rd,Morrow,GA,30260
+631,Clayton County, 5054 , Huie Elementary School,93.02,1260 Rockcut Rd,Forest Park,GA,30297
+631,Clayton County, 0304 , James Jackson Elementary School,92.93,7711 Mount Zion Blvd,Jonesboro,GA,30236
+631,Clayton County, 1056 , Jonesboro High School,92.99,7728 Mount Zion Blvd,Jonesboro,GA,30236
+631,Clayton County, 0106 , Jonesboro Middle School,93.03,1308 Arnold St,Jonesboro,GA,30236
+631,Clayton County, 0380 , Kay R Pace Elementary School of the Arts,92.89,1821 Walt Stephens Rd,Jonesboro,GA,30236
+631,Clayton County, 0305 , Kemp Elem School,92.99,10990 Folsom Rd,Hampton,GA,30228
+631,Clayton County, 0205 , Kemp Primary,93.01,1090 McDonough Rd,Hampton,GA,30228
+631,Clayton County, 0197 , Kendrick Middle School,92.98,7971 Kendrick Road,Jonesboro,GA,30238
+631,Clayton County, 0173 , Kilpatrick Elementary School,93.01,7534 Tara Rd,Jonesboro,GA,30236
+631,Clayton County, 4056 , Lake City Elementary School,92.98,5354 Phillips Dr,Lake City,GA,30260
+631,Clayton County, 0295 , Lake Ridge Elementary School,92.98,7900 Lake Ridge Cir,Riverdale,GA,30296
+631,Clayton County, 1058 , Lee Street Elementary School,93.00,178 Lee St,Jonesboro,GA,30236
+631,Clayton County, 0190 , Lovejoy High School,92.98,1587 McDonough Rd,Hampton,GA,30228
+631,Clayton County, 0191 , Lovejoy Middle School,92.97,1588 Lovejoy Rd,Hampton,GA,30228
+631,Clayton County, 0100 , M. D. Roberts Middle School,93.03,1905 Walt Stephens Rd,Jonesboro,GA,30236
+631,Clayton County, 0215 , Martha Ellen Stilwell School for the Performing Arts,93.06,2580 Mount Zion Pkwy,Jonesboro,GA,30236
+631,Clayton County, 0204 , Martin Luther King  Jr. Elementary School,93.00,11850 Hastings Bridge Rd,Hampton,GA,30228
+631,Clayton County, 0379 , Michelle Obama STEM Elementary Academy,92.96,5745 W Lees Mill Rd,College Park,GA,30349
+631,Clayton County, 2058 , Morrow Elementary School,92.99,6115 Reynolds Rd,Morrow,GA,30260
+631,Clayton County, 4058 , Morrow High School,92.99,2299 Old Rex Morrow Rd,Morrow,GA,30260
+631,Clayton County, 0117 , Morrow Middle School,93.00,5934 Trammell Rd,Morrow,GA,30260
+631,Clayton County, 0176 , Mount Zion Elementary School,92.91,2984 Mount Zion Rd,Jonesboro,GA,30236
+631,Clayton County, 0290 , Mount Zion High School,92.96,2535 Mount Zion Pkwy,Jonesboro,GA,30236
+631,Clayton County, 0109 , Mount Zion Primary,93.07,2920 Mount Zion Rd,Jonesboro,GA,30236
+631,Clayton County, 0104 , Mundy's Mill High School,93.02,9652 Fayetteville Rd,Jonesboro,GA,30238
+631,Clayton County, 0174 , Mundys Mill Middle School,92.98,1251 Mundys Mill Rd,Jonesboro,GA,30238
+631,Clayton County, 2052 , North Clayton High School,92.97,1525 Norman Dr,College Park,GA,30349
+631,Clayton County, 3052 , North Clayton Middle School,92.97,5517 W Fayetteville Rd,College Park,GA,30349
+631,Clayton County, 1060 , Northcutt Elementary School,92.96,5451 W Fayetteville Rd,College Park,GA,30349
+631,Clayton County, 0276 , Oliver Elementary School,92.95,1725 Cheryl Leigh Dr,Riverdale,GA,30296
+631,Clayton County, 0378 , Perry Career Academy ,92.97,137 Spring St,Jonesboro,GA,30236
+631,Clayton County, 0181 , Pointe South Elementary School,92.98,8482 Thomas Rd,Riverdale,GA,30274
+631,Clayton County, 0277 , Pointe South Middle School,92.98,8495 Thomas Rd,Jonesboro,GA,30238
+631,Clayton County, 0207 , Rex Mill Middle School,93.02,6380 Evans Dr,Rex,GA,30273
+631,Clayton County, 2060 , Riverdale Elementary School,92.98,6253 Garden Walk Blvd,Riverdale,GA,30274
+631,Clayton County, 0377 , Riverdale High School,92.98,160 Roberts Dr,Riverdale,GA,30274
+631,Clayton County, 3060 , Riverdale Middle School,93.05,400 Roberts Dr,Riverdale,GA,30274
+631,Clayton County, 0195 , River's Edge Elementary School,92.95,205 Northbridge Rd,Fayetteville,GA,30215
+631,Clayton County, 0200 , Roberta T. Smith Elementary School,93.00,6340 Highway 42,Rex,GA,30273
+631,Clayton County, 0107 , Sequoyah Middle School,93.01,95 Valley Hill Rd SW,Riverdale,GA,30274
+631,Clayton County, 4060 , Suder Elementary School,92.99,1400 Lake Jodeco Rd,Jonesboro,GA,30236
+631,Clayton County, 5060 , Swint Elementary School,92.93,500 Highway 138 W,Jonesboro,GA,30238
+631,Clayton County, 1062 , Tara Elementary School,93.04,937 Mount Zion Rd,Morrow,GA,30260
+631,Clayton County, 0105 , Thurgood Marshall Elementary School,92.99,5885 Maddox Rd,Morrow,GA,30260
+631,Clayton County, 0307 , Unidos Dual Language School,92.80,4475 Hendrix Dr,Forest Park,GA,30297
+631,Clayton County, 2062 , West Clayton Elementary School,92.92,5580 Riverdale Rd,College Park,GA,30349
+631,Clayton County, 5056 , William M. McGarrah Elementary School,93.00,2201 Lake Harbin Rd,Morrow,GA,30260
+650,Echols County, 0112 , Echols County Elementary/Middle School,91.28,229 US Highway 129 S,Statenville,GA,31648
+650,Echols County, 1050 , Echols County High School,91.19,190 Ga Highway 94 E,Statenville,GA,31648
+683,Johnson County, 0197 , Johnson County Elementary School,94.33,2160 W Elm St,Wrightsville,GA,31096
+683,Johnson County, 0201 , Johnson County High School ,94.46,150 Herschel Walker Dr,Wrightsville,GA,31097
+683,Johnson County, 0101 , Johnson County Middle School,94.35,150 Herschel Walker Dr,Wrightsville,GA,31098
+703,Montgomery County, 0107 , Montgomery County Elementary School,94.82,900 Martin Luther King Dr,Ailey,GA,30410
+703,Montgomery County, 0201 , Montgomery County High School,94.70,100 Faye D Brewer Street,Mount Vernon,GA,30445
+792,Lowndes County, 0106 , J. L. Lomax Elementary School,94.61,1450 Howell Rd,Valdosta,GA,31601
+792,Lowndes County, 0195 , Newbern Middle School,94.67,2015 E Park Ave,Valdosta,GA,31602
+792,Lowndes County, 0117 , Pinevale Elementary School,94.58,930 Lake Park Rd,Valdosta,GA,31601
+792,Lowndes County, 0309 , S.L. Mason Elementary School,94.69,821 W Gordon St,Valdosta,GA,31601
+792,Lowndes County, 0101 , Sallas Mahone Elementary,94.66,3686 Lake Laurie Dr,Valdosta,GA,31605
+792,Lowndes County, 0273 , Valdosta High School,94.68,4590 Inner Perimeter Rd,Valdosta,GA,31601
+792,Lowndes County, 0103 , Valdosta Middle School,94.66,110 Burton St,Valdosta,GA,31602
+792,Lowndes County, 1052 , W.G. Nunn Elementary,94.68,1610 Lakeland Ave,Valdosta,GA,31602
+757,Wilkes County, 0205 ,Washington-Wilkes Elementary School,94.09,109 East St,Washington,GA,30673
+757,Wilkes County, 0105 ,Washington-Wilkes Primary School,94.16,910 E Robert Toombs Ave,Washington,GA,30673
+757,Wilkes County, 0210 ,Washington-Wilkes Middle School,94.22,1180 Tignall Rd,Washington,GA,30673
+757,Wilkes County, 0110 ,Washington-Wilkes Comprehensive High School,94.18,1180 Tignall Rd,Washington,GA,30673
